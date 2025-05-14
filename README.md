@@ -1,7 +1,7 @@
 # Face Mask Detection System
 
 This project is a real-time face mask detection system built using OpenCV. It detects whether a person is wearing a mask or not through a webcam, and if not, it triggers an alert sound.
- *Originally developed during my college days as a learning project amidst the COVID-19 pandemic.*
+*Originally developed during my college days as a learning project amidst the COVID-19 pandemic.*
 
 ## Features
 
