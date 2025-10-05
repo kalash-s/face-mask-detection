@@ -12,7 +12,7 @@ This project is a real-time face mask detection system built using OpenCV. It de
 
 ## Model Training
 
-The model was trained using a custom dataset consisting of:
+The model was trained using a dataset consisting of:
 
 - **2,165 images** of people wearing masks
 - **1,930 images** of people without masks
